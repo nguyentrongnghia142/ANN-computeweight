@@ -1,1 +1,1 @@
-# Compute adaptive weight for ANN by hand
+# Compute adaptive weight for ANN and  CNN by hand
